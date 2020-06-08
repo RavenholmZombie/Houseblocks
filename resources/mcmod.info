@@ -1,0 +1,16 @@
+[
+{
+  "modid": "houseblocks",
+  "name": "House Blocks",
+  "description": "Tired of using planks, bricks, or stone to build your cities? This mod adds colorful modern building blocks.",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "https://github.com/RavenholmZombie/Houseblocks",
+  "updateUrl": "",
+  "authorList": ["RavenholmZombie"],
+  "credits": "MrCrayFish for his modding tutorials.",
+  "logoFile": "assets/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,28 @@
+itemGroup.tabHouseblocks=House Blocks - Siding
+itemGroup.tabHBCorner=House Blocks - Corners
+
+tile.Drywall.name=Drywall
+tile.RedOutsideSolid.name=Vinyl Siding - Red
+tile.RedCorner.name=Corner Siding - Red
+tile.WhiteOutsideSolid.name=Vinyl Siding - White
+tile.WhiteCorner.name=Corner Siding - White
+tile.GreenOutsideSolid.name=Vinyl Siding - Green
+tile.GreenCorner.name=Corner Siding - Green
+tile.BlueOutsideSolid.name=Vinyl Siding - Blue
+tile.BlueCorner.name=Corner Siding - Blue
+tile.BlockLBlueSolid.name=Vinyl Siding - Light Blue
+tile.LBlueCorner.name=Corner Siding - Light Blue
+tile.BlockLimeSolid.name=Vinyl Siding - Lime
+tile.LimeCorner.name=Corner Siding - Lime
+tile.BlockPinkSolid.name=Vinyl Siding - Pink
+tile.PinkCorner.name=Corner Siding - Pink
+tile.BlockBrownSolid.name=Vinyl Siding - Brown
+tile.BrownCorner.name=Corner Siding - Brown
+tile.BlockYellowSolid.name=Vinyl Siding - Yellow
+tile.YellowCorner.name=Corner Siding - Yellow
+tile.BlockGreySolid.name=Vinyl Siding - Grey
+tile.GreyCorner.name=Corner Siding - Grey
+tile.BlockLGreySolid.name=Vinyl Siding - Light Grey
+tile.LGreyCorner.name=Corner Siding - Light Grey
+
+tile.testBlock.name=Test Block
