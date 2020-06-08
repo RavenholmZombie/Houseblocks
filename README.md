@@ -1,3 +1,3 @@
 # Houseblocks
-![alt text](https://i.imgur.com/JigBCGw.png | width=600)
+<img src="https://i.imgur.com/JigBCGw.png" alt="alt text">
 A simple mod that adds modern building blocks for houses into Minecraft
