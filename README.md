@@ -3,7 +3,7 @@
 A simple mod that adds modern building blocks for houses into Minecraft
 <hr>
 
-For Minecraft 1.7.10
+For Minecraft 1.7.10 <br>
 Newer Versions of Minecraft will come later.
 
 This mod adds in modern decorative blocks for people who wish to build more-colorful houses.
