@@ -24,5 +24,13 @@ tile.BlockGreySolid.name=Vinyl Siding - Grey
 tile.GreyCorner.name=Corner Siding - Grey
 tile.BlockLGreySolid.name=Vinyl Siding - Light Grey
 tile.LGreyCorner.name=Corner Siding - Light Grey
+tile.BlockOrangeSolid.name=Vinyl Siding - Orange
+tile.OrangeCorner.name=Corner Siding - Orange
+tile.BlockPurpleSolid.name=Vinyl Siding - Purple
+tile.PurpleCorner.name=Corner Siding - Purple
+tile.BlockCyanSolid.name=Vinyl Siding - Cyan
+tile.CyanCorner.name=Corner Siding - Cyan
+tile.BlockMagentaSolid.name=Vinyl Siding - Magenta
+tile.MagentaCorner.name=Corner Siding - Magenta
 
 tile.testBlock.name=Test Block
