@@ -117,5 +117,41 @@ public class HB_Crafting {
 				"PPW",
 				"PPW",
 				"PPW", 'P', HB_Blocks.blockLGreyOut, 'W', Blocks.wool});
+		
+		//Orange Panel - Shapeless
+		GameRegistry.addShapelessRecipe(new ItemStack(HB_Blocks.blockOrangeOut), HB_Blocks.blockWhiteOut, new ItemStack(Items.dye,1,14));
+		
+		//Orange Corner
+		GameRegistry.addRecipe(new ItemStack(HB_Blocks.blockOrangeCorner, 6), new Object[] {
+				"PPW",
+				"PPW",
+				"PPW", 'P', HB_Blocks.blockOrangeOut, 'W', Blocks.wool});
+		
+		//Purple Panel - Shapeless
+		GameRegistry.addShapelessRecipe(new ItemStack(HB_Blocks.blockPurpleOut), HB_Blocks.blockWhiteOut, new ItemStack(Items.dye,1,5));
+		
+		//Purple Corner
+		GameRegistry.addRecipe(new ItemStack(HB_Blocks.blockPurpleCorner, 6), new Object[] {
+				"PPW",
+				"PPW",
+				"PPW", 'P', HB_Blocks.blockPurpleOut, 'W', Blocks.wool});
+		
+		//Cyan Panel - Shapeless
+		GameRegistry.addShapelessRecipe(new ItemStack(HB_Blocks.blockCyanOut), HB_Blocks.blockWhiteOut, new ItemStack(Items.dye,1,5));
+		
+		//Cyan Corner
+		GameRegistry.addRecipe(new ItemStack(HB_Blocks.blockCyanCorner, 6), new Object[] {
+				"PPW",
+				"PPW",
+				"PPW", 'P', HB_Blocks.blockCyanOut, 'W', Blocks.wool});
+		
+		//Magenta Panel - Shapeless
+		GameRegistry.addShapelessRecipe(new ItemStack(HB_Blocks.blockMagentaOut), HB_Blocks.blockWhiteOut, new ItemStack(Items.dye,1,5));
+		
+		//Magenta Corner
+		GameRegistry.addRecipe(new ItemStack(HB_Blocks.blockMagentaCorner, 6), new Object[] {
+				"PPW",
+				"PPW",
+				"PPW", 'P', HB_Blocks.blockMagentaOut, 'W', Blocks.wool});
 	}
 }

@@ -58,6 +58,22 @@ public class HB_Blocks {
 	// Light Grey blocks
 	public static Block blockLGreyOut;
 	public static Block blockLGreyCorner;
+	
+	// Orange blocks.
+	public static Block blockOrangeOut;
+	public static Block blockOrangeCorner;
+	
+	// Purple blocks.
+	public static Block blockPurpleOut;
+	public static Block blockPurpleCorner;
+	
+	//Cyan blocks.
+	public static Block blockCyanOut;
+	public static Block blockCyanCorner;
+	
+	//Magenta blocks.
+	public static Block blockMagentaOut;
+	public static Block blockMagentaCorner;
 		
 	// Test block.
 	public static Block testBlock;
@@ -116,6 +132,22 @@ public class HB_Blocks {
 		blockLGreyOut = new BlockLGreyOut(Material.rock).setBlockName("BlockLGreySolid").setCreativeTab(Houseblocks.tabHouseblocks);
 		blockLGreyCorner = new BlockLGreyCorner(Material.rock).setBlockName("LGreyCorner").setCreativeTab(Houseblocks.tabHBCorner);
 		
+		//Orange
+		blockOrangeOut = new BlockOrangeOut(Material.rock).setBlockName("BlockOrangeSolid").setCreativeTab(Houseblocks.tabHouseblocks);
+		blockOrangeCorner = new BlockOrangeCorner(Material.rock).setBlockName("OrangeCorner").setCreativeTab(Houseblocks.tabHBCorner);
+		
+		//Purple
+		blockPurpleOut = new BlockPurpleOut(Material.rock).setBlockName("BlockPurpleSolid").setCreativeTab(Houseblocks.tabHouseblocks);
+		blockPurpleCorner = new BlockPurpleCorner(Material.rock).setBlockName("PurpleCorner").setCreativeTab(Houseblocks.tabHBCorner);
+		
+		//Cyan
+		blockCyanOut = new BlockCyanOut(Material.rock).setBlockName("BlockCyanSolid").setCreativeTab(Houseblocks.tabHouseblocks);
+		blockCyanCorner = new BlockCyanCorner(Material.rock).setBlockName("CyanCorner").setCreativeTab(Houseblocks.tabHBCorner);
+		
+		//Magenta
+		blockMagentaOut = new BlockMagentaOut(Material.rock).setBlockName("BlockMagentaSolid").setCreativeTab(Houseblocks.tabHouseblocks);
+		blockMagentaCorner = new BlockMagentaCorner(Material.rock).setBlockName("MagentaCorner").setCreativeTab(Houseblocks.tabHBCorner);
+		
 		// Test Block
 		testBlock = new TestBlock(Material.rock).setBlockName("testBlock");
 	}
@@ -146,6 +178,14 @@ public class HB_Blocks {
 		GameRegistry.registerBlock(blockGreyCorner, blockGreyCorner.getUnlocalizedName().substring(5));
 		GameRegistry.registerBlock(blockLGreyOut, blockLGreyOut.getUnlocalizedName().substring(5));
 		GameRegistry.registerBlock(blockLGreyCorner, blockLGreyCorner.getUnlocalizedName().substring(5));
+		GameRegistry.registerBlock(blockOrangeOut, blockOrangeOut.getUnlocalizedName().substring(5));
+		GameRegistry.registerBlock(blockOrangeCorner, blockOrangeCorner.getUnlocalizedName().substring(5));
+		GameRegistry.registerBlock(blockPurpleOut, blockPurpleOut.getUnlocalizedName().substring(5));
+		GameRegistry.registerBlock(blockPurpleCorner, blockPurpleCorner.getUnlocalizedName().substring(5));
+		GameRegistry.registerBlock(blockCyanOut, blockCyanOut.getUnlocalizedName().substring(5));
+		GameRegistry.registerBlock(blockCyanCorner, blockCyanCorner.getUnlocalizedName().substring(5));
+		GameRegistry.registerBlock(blockMagentaOut, blockMagentaOut.getUnlocalizedName().substring(5));
+		GameRegistry.registerBlock(blockMagentaCorner, blockMagentaCorner.getUnlocalizedName().substring(5));
 
 		
 		// Register Creative Tab icon items
